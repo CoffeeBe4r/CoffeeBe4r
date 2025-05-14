@@ -24,16 +24,15 @@ I'm a Computer Systems Engineering student. Learning & developing web-app skills
 I'm constantly learning new technologies to enhance my development skills.
 
 ## Stats
-  ![CoffeeBe4r's Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=coffeebe4r&theme=radical)
-  ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coffeebe4r&theme=radical)
-  ![CoffeeBe4r's Stats](https://github-readme-stats.vercel.app/api?username=coffeebe4r&show_icons=true&theme=radical)
-  ![CoffeeBe4r's Streak](https://github-readme-streak-stats.herokuapp.com/?user=coffeebe4r&theme=radical)
-  [![Trophy](https://github-profile-trophy.vercel.app/?username=coffeebe4r&theme=radical&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-  [![Activity](https://github-readme-activity-graph.vercel.app/graph?username=coffeebe4r&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coffeebe4r&layout=compact&theme=radical)
-
 <div align="center">
-  <img src="" />
+
+  ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coffeebe4r&theme=radical)
+![CoffeeBe4r's Stats](https://github-readme-stats.vercel.app/api?username=CoffeeBe4r&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![CoffeeBe4r's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CoffeeBe4r&theme=radical&hide_border=true)
+  [![Activity](https://github-readme-activity-graph.vercel.app/graph?username=coffeebe4r&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ ![CoffeeBe4r's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoffeeBe4r&theme=radical&show_icons=true&hide_border=true&layout=compact)
+
+
 </div>
 
 ## 📈 Profile Views
