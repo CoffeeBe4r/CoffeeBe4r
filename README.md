@@ -30,7 +30,7 @@ I'm constantly learning new technologies to enhance my development skills.
 ![CoffeeBe4r's Stats](https://github-readme-stats.vercel.app/api?username=CoffeeBe4r&theme=radical&show_icons=true&hide_border=true&count_private=true)
 ![CoffeeBe4r's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CoffeeBe4r&theme=radical&hide_border=true)
   [![Activity](https://github-readme-activity-graph.vercel.app/graph?username=coffeebe4r&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
- ![CoffeeBe4r's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoffeeBe4r&theme=radical&show_icons=true&hide_border=true&layout=compact)
+![CoffeeBe4r's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoffeeBe4r&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 
 </div>
